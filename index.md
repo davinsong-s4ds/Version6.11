@@ -2,7 +2,7 @@
 
 Esperamos presentar todas las mejoras realizadas en la version 6.10 y nuestros proximos desarrollos para la version 6.11, Es muy emocionante ver cada mes como tenemos un producto mas robusto, escalable, seguro y amigable con el usuario final !Son Nuestro Publico objetivo!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Somos un equipo tecnico Joven conformado por 5 equipos de trabajo que en conjunto lograremos todos los objetivos de este mes, Todos los tickets respectivos han sido creados en nuestra plataforma oficial en [Jira](https://s4ds-corp.atlassian.net/secure/Dashboard.jspa) y el seguimiento sobre este plan sera controlado por Portfolio Una herramienta en Jira que nos ayudara a asegurar su cumplimiento.
 
 ### Todos somos parte de ello
 
